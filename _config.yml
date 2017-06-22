@@ -43,8 +43,8 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
+  name: Panevėžio Juozo Balčikonio gimnazijos alumnų asociacija
+  email: "info@jbgalumni.lt"
   facebook: groups/48368176046/  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
