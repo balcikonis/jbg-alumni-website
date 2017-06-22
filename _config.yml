@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: JBG Alumni
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -206,6 +206,7 @@ prose:
 
 gems:
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
