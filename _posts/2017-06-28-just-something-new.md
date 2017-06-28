@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Just something new
 ---
 ## A New Post from Karolis
