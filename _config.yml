@@ -17,14 +17,14 @@ baseurl: ""
 title: JBG Alumni
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Panevėžio Juozo Balčikonio gimnazijos alumni asociacijos projektai, veikla
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  Projektai:
+    - JBG Didysis Brolis/Sesė : "http://mentoryste.jbgalumni.lt/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Įstatai: "istatai"
