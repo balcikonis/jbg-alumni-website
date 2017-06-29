@@ -23,6 +23,7 @@ description: Panevėžio Juozo Balčikonio gimnazijos alumnų asociacijos projek
 
 # List of links in the navigation bar
 navbar-links:
+  Pradžia: ""
   Projektai:
     - JBG Didysis Brolis/Sesė : "http://mentoryste.jbgalumni.lt/"
     - JBG Alumni Žemėlapis : "http://vycius.lt/alumni/"
