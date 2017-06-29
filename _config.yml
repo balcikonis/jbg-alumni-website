@@ -17,7 +17,7 @@ baseurl: ""
 title: JBG Alumni
 
 # Short description of your site
-description: Panevėžio Juozo Balčikonio gimnazijos alumni asociacijos projektai, veikla
+description: Panevėžio Juozo Balčikonio gimnazijos alumnų asociacijos projektai, veikla
 
 # --- Navigation bar options --- #
 
@@ -25,8 +25,6 @@ description: Panevėžio Juozo Balčikonio gimnazijos alumni asociacijos projekt
 navbar-links:
   Projektai:
     - JBG Didysis Brolis/Sesė : "http://mentoryste.jbgalumni.lt/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
   Įstatai: "istatai"
   Kontaktai: "kontaktai"
 
