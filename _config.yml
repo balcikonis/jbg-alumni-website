@@ -24,7 +24,7 @@ description: Panevėžio Juozo Balčikonio gimnazijos alumnų asociacijos projek
 # List of links in the navigation bar
 navbar-links:
   Asociacija:
-  	- Naujienos: ""
+  	- Naujienos:
     - JBG Alumni valdyba: 
     - JBG Alumni aktyvūs nariai:
     - JBG Alumni kalendorius: 
