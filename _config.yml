@@ -23,12 +23,23 @@ description: Panevėžio Juozo Balčikonio gimnazijos alumnų asociacijos projek
 
 # List of links in the navigation bar
 navbar-links:
-  Pradžia: ""
-  Projektai:
+  Asociacija:
+  	- Naujienos: ""
+    - JBG Alumni valdyba: 
+    - JBG Alumni aktyvūs nariai:
+    - JBG Alumni kalendorius: 
+    - Naujienlaiškiai:
+    - Įstatai: "istatai"
+  Renginiai ir Projektai:
     - JBG Didysis Brolis/Sesė : "http://mentoryste.jbgalumni.lt/"
     - JBG Alumni Žemėlapis : "http://vycius.lt/alumni/"
     - Paskaitų ciklas : "pasilieku-po-skambu-io"
-  Įstatai: "istatai"
+    - JBG Alumni Kalėdos : ""
+    - JBG Alumni rekomenduoja : 
+    - JBG Pavasario praktika: 
+  Nariams:
+    - Noriu naujienlaiškio: 
+    - Vinjetės: 
   Kontaktai: "kontaktai"
 
 # Image to show in the navigation bar - image must be a square (width = height)
