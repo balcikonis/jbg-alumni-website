@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: JBG Alumni Kalėdos
 ---
 Jau tradiciniu renginiu tapęs įvykis gimnazijoje, vystantis gruodžio 23 dieną, į kurį kviečiami visų kartų alumniečiai išgirsti gimnazijos pasiekimų ir aktualijų. Po oficialaus renginio visi susiburia prie bokalo alaus ar vyno taurės pasidalinti prisiminimais apie gimnaziją, mokytojus, klasiokus ir t.t.
