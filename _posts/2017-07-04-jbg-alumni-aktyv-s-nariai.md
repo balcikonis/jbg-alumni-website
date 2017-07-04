@@ -4,7 +4,7 @@ published: true
 title: JBG Alumni aktyvūs nariai
 ---
 
-Andrius Gabnys - JBG Teisės fakultetas   
+Andrius Gabnys - JBG Teisės Akademija   
 Arnas Tarabilda - JBG GMP prezidentas  
 Audrius Žvybas - teisininkas   
 Augustas Alekna - ex-JBG GMP prezidentas  
