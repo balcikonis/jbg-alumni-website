@@ -5,7 +5,7 @@ title: JBG Alumni aktyvūs nariai
 ---
 
 Andrius Gabnys - JBG Teisės Akademija   
-Arnas Tarabilda - JBG GMP prezidentas  
+Šarūno Dyburio buvęs JBG Alumni prezidentas 2010-2016 metais  
 Audrius Žvybas - teisininkas   
 Augustas Alekna - ex-JBG GMP prezidentas  
 Darius Jokubaitis - WEB  
@@ -19,4 +19,4 @@ Mindaugas Balčiūnas - valdyba (finansai)
 Mindaugas Dzikaras - didysis Brolis/Sesė  
 Saulius Pauliukas - valdyba (Mockutės fondas)  
 Ugnius Ramanauskas - valdyba (didysis Brolis/Sesė)  
-Viktorija Folk - valdyba (prezidentė)![JBG Alumni aktyvus nariai.jpg]({{site.baseurl}}/img/JBG Alumni aktyvus nariai.jpg)
+Viktorija Folk - valdyba (prezidentė)![JBG Alumni aktyvus nariai.jpg]({{site.baseurl}}/img/jbg-alumni-aktyvus-nariai.jpg)
