@@ -8,7 +8,7 @@ title: JBG Alumni aktyvūs nariai
 
 
 Andrius Gabnys - JBG Teisės Akademija   
-Šarūno Dyburis - buvęs JBG Alumni prezidentas 2010-2016 metais  
+Šarūnas Dyburis - buvęs JBG Alumni prezidentas 2010-2016 metais  
 Audrius Žvybas - teisininkas   
 Augustas Alekna - ex-JBG GMP prezidentas  
 Darius Jokubaitis - WEB  
