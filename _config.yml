@@ -27,20 +27,16 @@ navbar-links:
     - Naujienos: ""
     - JBG Alumni valdyba: "jbg-alumni-valdyba"
     - JBG Alumni aktyvūs nariai: "jbg-alumni-aktyv-s-nariai"
-    - JBG Alumni kalendorius: ""
-    - Naujienlaiškiai: ""
+    - Kontaktai: "kontaktai"
   Renginiai ir Projektai:
     - JBG Didysis Brolis/Sesė : "http://mentoryste.jbgalumni.lt/"
-    - JBG Alumni Žemėlapis : "http://vycius.lt/alumni/"
+    - JBG Alumni Žemėlapis : "https://vycius.lt/alumni/"
     - Paskaitų ciklas "Pasilieku po skambučio" : "pasilieku-po-skambu-io"
     - JBG Alumni Kalėdos: "jbg-alumni-kal-dos"
-    - JBG Alumni rekomenduoja: ""
     - JBG Pavasario praktika: "jbg-pavasario-praktika"
     - JBG Alumni teisės akademija: "teis-s-akademija"
   Nariams:
-    - Noriu naujienlaiškio: ""
-    - Vinjetės: ""
-  Kontaktai: "kontaktai"
+    - Vinjetės: "https://www.dropbox.com/sh/jcwibqhf7urx16f/AACZa5v8RaINS23DAhtoS8qXa?dl=0"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
