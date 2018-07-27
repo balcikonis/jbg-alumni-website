@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Stipendija ekonomikos stovyklai
+bigimg: "/img/lietuvos-junior-achievement-verslo-stovykla.jpg"
 ---
 Kiekvienais metais Panevėžio Juozo Balčikonio Alumni vienam gimnazijos mokiniui apmoka [Lietuvos Junior Achievement](https://www.facebook.com/JALithuania/) organizuojamą ekonomikos stovyklą.
 
