@@ -10,6 +10,6 @@ Tai gali būti grožinė literatūra arba mokslinės knygos.   Kiekviena padovan
 Nori atsiųsti ir tu?  
 Adresas:  
 Juozo Balčikonio gimnazija,  
-Respublikos g. 47,  
-LT-35170, Panevėžys
+Respublikos g. 47  
+LT-35170, Panevėžys  
 Lietuva
