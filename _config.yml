@@ -30,14 +30,15 @@ navbar-links:
     - Parama: "parama"
     - Kontaktai: "kontaktai"
   Renginiai ir Projektai:
-    - JBG Didysis Brolis/Sesė : "http://mentoryste.jbgalumni.lt/"
-    - JBG Alumni Žemėlapis : "https://vycius.lt/alumni/"
+    - Didysis Brolis/Sesė : "http://mentoryste.jbgalumni.lt/"
+    - Alumni Žemėlapis : "https://vycius.lt/alumni/"
     - Paskaitų ciklas "Pasilieku po skambučio" : "pasilieku-po-skambu-io"
-    - JBG Alumni Kalėdos: "jbg-alumni-kal-dos"
-    - JBG Pavasario praktika: "jbg-pavasario-praktika"
-    - JBG Alumni teisės akademija: "teis-s-akademija"
+    - Alumni Kalėdos: "jbg-alumni-kal-dos"
+    - Pavasario praktika: "jbg-pavasario-praktika"
+    - Teisės akademija: "teis-s-akademija"
     - Stipendija ekonomikos stovyklai: "ekonomikos-stovykla"
-    - JBG Alumni stipendija: "jbg-alumni-stipendija"
+    - Alumni stipendija: "jbg-alumni-stipendija"
+    - Knygų lentyna: "jbg-alumni-knygu-lentyna"
   Nariams:
     - Vinjetės: "https://www.dropbox.com/sh/jcwibqhf7urx16f/AACZa5v8RaINS23DAhtoS8qXa?dl=0"
 
