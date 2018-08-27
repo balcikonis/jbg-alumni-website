@@ -25,20 +25,20 @@ description: Panevėžio Juozo Balčikonio gimnazijos alumnų asociacijos projek
 navbar-links:
   Asociacija:
     - Naujienos: ""
-    - Valdyba: "jbg-alumni-valdyba"
-    - Aktyvūs nariai: "jbg-alumni-aktyv-s-nariai"
+    - Valdyba: "valdyba"
+    - Aktyvūs nariai: "aktyvus-nariai"
     - Parama: "parama"
     - Kontaktai: "kontaktai"
   Renginiai ir Projektai:
     - Didysis Brolis/Sesė : "http://mentoryste.jbgalumni.lt/"
     - Alumni Žemėlapis : "https://vycius.lt/alumni/"
-    - Paskaitų ciklas "Pasilieku po skambučio" : "pasilieku-po-skambu-io"
-    - Alumni Kalėdos: "jbg-alumni-kal-dos"
-    - Pavasario praktika: "jbg-pavasario-praktika"
-    - Teisės akademija: "teis-s-akademija"
+    - Paskaitų ciklas "Pasilieku po skambučio" : "pasilieku-po-skambucio"
+    - Alumni Kalėdos: "kaledos"
+    - Pavasario praktika: "pavasario-praktika"
+    - Teisės akademija: "teises-akademija"
     - Stipendija ekonomikos stovyklai: "ekonomikos-stovykla"
-    - Alumni stipendija: "jbg-alumni-stipendija"
-    - Knygų lentyna: "jbg-alumni-knygu-lentyna"
+    - Alumni stipendija: "stipendija"
+    - Knygų lentyna: "knygu-lentyna"
   Nariams:
     - Vinjetės: "https://www.dropbox.com/sh/jcwibqhf7urx16f/AACZa5v8RaINS23DAhtoS8qXa?dl=0"
 
