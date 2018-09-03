@@ -1,6 +1,7 @@
 ---
 layout: page
 published: true
+comments: false
 title: Naujienlaikraštis
 subtitle: Prisijunk prie JBG Alumnų naujienlaiškio gavėjų
 ---
