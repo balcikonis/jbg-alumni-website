@@ -12,6 +12,6 @@ Tadas nebaigė gimnazijos, nes paskutiniais metais išėjo į kitą mokyklą, ta
 # JBG Garbės atestatai
 ## Tadas Žuromskis (2018 metai)
 ![Garbės atestatas Tadui Žuromskiui]({{ site.url }}/img/jbg-alumni_garbes-atestatas_tadui-zuromskiui-1.png)
-## Arnoldas Pranskevičius (2017 metai)
+## Arnoldas Pranckevičius (2017 metai)
 ![Garbės atestatas Arnoldui Pranckevičiui]({{ site.url }}/img/jbg-alumni_garbes-atestatas_arnoldas_v2-1.png)
 
